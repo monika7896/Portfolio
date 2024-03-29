@@ -109,7 +109,10 @@ const EducationCard = ({ education }) => {
         </Body>
       </Top>
       <Grade>
-        <b>Grade :</b>
+        <b>Marks : 79.6 %</b>
+        <br></br>
+        <b>Achievement: Gold Medalist in CSE Batch of 2017</b>
+
         {education.grade}
       </Grade>
       <Description>
